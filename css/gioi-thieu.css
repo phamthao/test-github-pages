@@ -1,0 +1,58 @@
+.c-headline-2 {
+    margin: 30px 0 15px;
+}
+.c-headline-2 .c_name {
+    font-size: 25px;
+    color: #2a4c68;
+    font-weight: 500;
+}
+/* BEGIN p-detail-11 */
+.p-detail-11 {
+    padding-bottom: 30px;
+    background-color: #f1f1f1;
+}
+.p-detail-11 .ht-page {
+    margin-top: 0;
+}
+.p-detail-11 .p_box {
+    background: rgba(255, 255, 255, .75);
+    box-shadow: 0 0 30px -10px rgba(0, 0, 0, .3);
+    padding: 5px 80px;
+    margin: -130px 40px 0;
+    position: relative;
+    z-index: 99;
+}
+.p-detail-11 .p_box .p_list {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 30px;
+}
+.p-detail-11 .p_box .p_list:last-child {
+    border-bottom: none;
+}
+.p-detail-11 .p_header {
+    color: #fff;
+    padding: 120px 0 120px;
+    height: 500px;
+    background-size: cover;
+}
+.p-detail-11 .p_title {
+    color: #2a4c68;
+    text-shadow: 1px 1px 0px #ffffff;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.p-detail-11 .p_desc {
+    font-size: 18px;
+    padding: 0 30px;
+    line-height: 1.334em;
+    margin-bottom: 25px;
+    font-weight: normal;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 0px #000000;
+}
+
+/* END p-detail-11 */
